@@ -160,6 +160,8 @@ Los resultados definitivos dependerán de la ejecución del código y de la cali
 Proyecto académico desarrollado como parte de la actividad de procesamiento de datos con Apache Spark.
 
 **Tecnología principal:** Apache Spark con PySpark.
+**Mauricio Castro Gonzalez**
+**Grupo:142**
 
-**Repositorio:** GitLab.
+**Repositorio:** GitHub.
 
