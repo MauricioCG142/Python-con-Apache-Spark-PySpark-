@@ -67,19 +67,22 @@ El procesamiento por lotes contempla las siguientes etapas:
 ## 6. Estructura del repositorio
 
 ```text
-analisis-retail-spark/
+analisis-ventas-retail-spark/
 │
-├── data/
-│   └── README.md
-│
-├── resultados/
-│
-├── src/
-│   └── procesamiento_batch.py
-│
-├── requirements.txt
 ├── README.md
-└── .gitignore
+│
+├── scripts/
+│   ├── lectura_datos.py
+│   ├── limpieza_datos.py
+│   ├── analisis_categorias.py
+│   ├── analisis_metodos_pago.py
+│   ├── analisis_ventas_mensuales.py
+│   └── graficos_eda.py
+│
+└── resultados/
+    ├── grafico_ventas_categorias.png
+    ├── grafico_metodos_pago.png
+    └── grafico_ventas_mensuales.png
 ```
 
 ## 7. Requisitos para la ejecución
