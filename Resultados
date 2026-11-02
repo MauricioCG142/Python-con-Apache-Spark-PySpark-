@@ -5,5 +5,3 @@ Como resultado del procesamiento y análisis exploratorio de los datos, se gener
 - **Ventas por categoría:** permite comparar el comportamiento de las ventas entre las categorías de productos.
 - **Métodos de pago:** muestra la distribución de las transacciones según el medio de pago utilizado.
 - **Ventas mensuales:** permite observar las variaciones de las ventas durante los diferentes meses del año.
-
-Los gráficos se encuentran disponibles en la carpeta `resultados` del repositorio.
